@@ -1,0 +1,62 @@
+.text-tree-one{
+    transform: translate(-330px, 60px);
+    padding: 10px;
+}
+
+.text-tree-two{
+    transform: translate(-450px, 45px);
+    padding: 10px;
+}
+
+.text-tree-three{
+    transform: translate(-490px, 45px);
+}
+
+.text-tree-four{
+    transform: translate(-590px, 60px);
+}
+
+.text-tree-five{
+    transform: translate(-480px, 80px);
+}
+
+.text-tree-six{
+    transform: translate(-370px, 110px);
+}
+
+.text-tree-seven{
+    transform: translate(-200px, 100px);
+}
+
+.text-tree-eight{
+    transform: translate(-180px, -150px);
+}
+
+.text-tree-nine{
+    transform: translate(-80px, -100px);
+}
+
+.text-tree-ten{
+    transform: translate(-40px, -80px);
+}
+
+.text-tree-eleven{
+    transform: translate(50px, -80px);
+}
+
+.text-tree-twelve{
+    transform: translate(10px, -80px);
+}
+
+.text-tree-third{
+    transform: translate(-40px, -30px);
+}
+
+.text-tree-fourth{
+    transform: translate(10px, -80px);
+}
+
+.phrases-float{
+    font-weight: bold;
+    color:rgb(133, 132, 132)
+}
